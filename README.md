@@ -13,5 +13,7 @@
     * Halo 5
     * Halo Infinite 
 * Titan Quest
+
+* [x] Alan Wake
 # !! UWAGA !! 
 Lista będzie się rozeszerzać i będą dodawane linki do recencji poszczególnych gier. 
