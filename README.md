@@ -1,19 +1,24 @@
-# Plan na przyszłość
-
-## Gry
+# Gry
+## Miscellaneous 
 * Fallout New Vegas
 * The Elder Scrolls V: Skyrim
-* Halo franchise:
-    * [x] Halo: Reach 
-    * [x] Halo CE
-    * Halo 2 Anniversary
-    * Halo 3
-    * Halo 3 ODST
-    * Halo 4
-    * Halo 5
-    * Halo Infinite 
 * Titan Quest
 
+## Xbox Game Studios
+### Bungie/343 Industries
+* [x] Halo: Reach 
+* [x] Halo CE
+* Halo 2 Anniversary
+* Halo 3
+* Halo 3 ODST
+* Halo 4
+* Halo 5
+* Halo Infinite 
+## Remedy Entertainment
 * [x] Alan Wake
-# !! UWAGA !! 
-Lista będzie się rozeszerzać i będą dodawane linki do recencji poszczególnych gier. 
+* [x] Quantum Break
+
+# Filmiki
+1. [Gotowanie](https://youtu.be/QSI6xcnBYxU)
+2. [**** ***](https://youtu.be/jUIHku8m9LA)
+3. [Odcinek #1 Zapytaj syska](https://youtu.be/xXR6Jeo7s9g)
