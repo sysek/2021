@@ -1,3 +1,6 @@
+# Blog
+1. [REMEDY ENTERTAINMENT /](https://gamesreview.pl/2021/02/12/remedy-entertainment/) - 2021-02-12
+
 # Gry
 ## Miscellaneous 
 * Fallout New Vegas
