@@ -20,8 +20,10 @@
 ## Remedy Entertainment
 * [x] Alan Wake
 * [x] Quantum Break
+* [x] Control
 
 # Filmiki
 1. [Gotowanie](https://youtu.be/QSI6xcnBYxU)
 2. [**** ***](https://youtu.be/jUIHku8m9LA)
 3. [Odcinek #1 Zapytaj syska](https://youtu.be/xXR6Jeo7s9g)
+4. [Pożegnanie z Polską](https://www.youtube.com/watch?v=hFXv_Xw5fOk)
